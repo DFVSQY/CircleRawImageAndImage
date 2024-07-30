@@ -8,6 +8,14 @@
 
 如果你可以从本项目中获益，请帮我点亮一颗Start，谢谢。
 
+This project provides two custom components, CircleRawImage and CircleImage, for drawing quasi-circular UI components.
+
+These components offer three filling modes: FillInside, FillOutside, and Edge (see the effect diagram for details).
+
+Using custom components can reduce the use of Mask components in the project, decrease batching interruptions, and can be used to optimize rendering performance.
+
+If you can benefit from this project, please help me light up a Star, thank you.
+
 
 # 效果图
 
