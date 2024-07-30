@@ -1,0 +1,14 @@
+# 简介
+
+该项目提供了自定义的CircleRawImage和CircleImage两个组件，用于绘制类圆形UI组件。
+
+该组件提供了三种填充模式：FillInside，FillOutside，Edge （具体详情见效果图）
+
+使用自定义组件可减少项目中Mask组件的使用，减少合批打断，可用于优化渲染性能。
+
+如果你可以从本项目中获益，请帮我点亮一颗Start，谢谢。
+
+
+# 效果图
+
+![image](https://github.com/user-attachments/assets/5f5c5bd3-c89b-48dd-9f75-7234345f24b6)
